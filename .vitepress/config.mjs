@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/MyDoc1/',
+  base: '/vite-2/',
   // head: [["link", { rel: "icon", href: '/public/logo.svg'}]],
 
   title: "uinptr cheat",
@@ -11,7 +11,7 @@ export default defineConfig({
   head: [
     [
       "link",
-      { rel: "icon", href: "/MyDoc1/logo.svg"},
+      { rel: "icon", href: "/vite/logo.svg"},
     ]],
   themeConfig: {
     logo: '/logo.png',
