@@ -11,7 +11,7 @@ export default defineConfig({
   head: [
     [
       "link",
-      { rel: "icon", href: "/vite/logo.svg"},
+      { rel: "icon", href: "/vite-2/logo.svg"},
     ]],
   themeConfig: {
     logo: '/logo.png',
